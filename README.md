@@ -2,8 +2,6 @@
 
 Congratulations on making it this far!
 
-We were impressed with your soft skills, now we want to see where you are in terms of your Front End technical abilities.
-
 Build a web page that allows a user to choose one of three pokemon, “Bulbasaur”, “Squirtle”, or “Charmander.” The web page should allow the user to see the name of the pokemon beneath the sprite of the pokemon as well as the ID, weight, height, and types.
 
 Look here for an example:
